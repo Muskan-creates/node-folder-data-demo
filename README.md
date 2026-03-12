@@ -1,2 +1,2 @@
 # node-folder-data-demo
-A simple Node.js project demonstrating how to access and use JSON data stored in a separate folder using the CommonJS module system and a clean modular structure.
+This is a basic Node.js project that demonstrates how to access and use data stored in a separate folder from another JavaScript file using the CommonJS module system.
